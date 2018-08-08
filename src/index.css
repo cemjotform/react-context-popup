@@ -6,6 +6,7 @@ body {
 
 .rootContainer {
   height: 500px;
+  padding: 20px;
   background-color: grey;
 }
 
