@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.rootContainer {
+  height: 500px;
+  background-color: grey;
+}
+
+.popup {
+  padding: 20px;
+  margin: 0 40px 40px;
+  background-color: white;
+  border: 1px solid black;
+}
